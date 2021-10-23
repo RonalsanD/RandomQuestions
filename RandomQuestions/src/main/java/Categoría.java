@@ -1,2 +1,0 @@
-public class Categoría {
-}
