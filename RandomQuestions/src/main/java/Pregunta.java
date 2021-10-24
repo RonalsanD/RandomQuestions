@@ -53,25 +53,4 @@ public class Pregunta {
         preguntas.add("¿En qué país se encuentra el K2?");
         return preguntas;
     }
-   /* public String elecciondeCategoria () {
-        String RandomCategorias="";
-        switch (RandomCategorias){
-            case "ronda 1" :
-
-                break;
-            case "ronda 2":
-
-                break;
-            case "ronda 3":
-
-                break;
-            case "ronda 4":
-
-                break;
-            case "ronda 5":
-
-                break;
-        }
-        return RandomCategorias;*/
-
 }
