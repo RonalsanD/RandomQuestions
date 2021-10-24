@@ -1,12 +1,14 @@
-Ronda.java
- Ronda
-Pregunta.java
- Pregunta
-Categoria.java
- Categoria
 Jugador.java
  Jugador
-Opciones.java
- Opciones
 Premio.java
  Premio
+Pregunta.java
+ Pregunta
+Ronda.java
+ Ronda
+Main.java
+ Main
+Categoria.java
+ Categoria
+Opciones.java
+ Opciones
